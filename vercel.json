@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "builds": [
+      
+      { "src": "movie.css", "use": "@vercel/static" },
+      { "src": "movie.js", "use": "@vercel/static" },
+      { "src": "logo.jpg", "use": "@vercel/static" }
+    ]
+  }
+  
